@@ -22,7 +22,7 @@ function start() {
       "<span>🚩</span> Player 1 Wins! <span>🚩</span>";
   } else if (randomNumber2 > randomNumber1) {
     document.querySelector("h1").innerHTML =
-      "<span>🚩</span> Player 2 wins! <span>🚩</span>";
+      "<span>🚩</span> Player 2 Wins! <span>🚩</span>";
   } else {
     document.querySelector("h1").innerHTML =
       "<span>🚩</span> Draw! <span>🚩</span>";
